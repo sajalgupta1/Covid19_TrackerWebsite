@@ -1,5 +1,5 @@
 # Covid19_TrackerWebsite
-A website that fetches current Covid data stats of all the countries, from API and loads into a cleaner and user-friendly Front-End interface
+A website that fetches current Covid data stats of all the countries, from API and loads into a cleaner and user-friendly Front-End interface, using HTML/CSS and JavaScript.
 
 ![Screenshot 2020-06-29 at 5 20 21 PM](https://user-images.githubusercontent.com/37113163/86008358-45301200-ba36-11ea-8258-7cc7020292b1.png)
 
